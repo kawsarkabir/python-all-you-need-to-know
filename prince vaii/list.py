@@ -11,3 +11,7 @@ print(list)
 #element remove korar niyom
 list.remove(70)
 print(list)
+
+#last element remove korar niyom
+list.pop()
+print(list)
