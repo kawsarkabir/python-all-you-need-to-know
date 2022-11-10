@@ -1,3 +1,4 @@
-username = input("Enter Your Name: ")
-email = input("Enter Your Email: ")
-print(username, email)
+name = input("enter your name")
+companyName =input("enter your company name ")
+print(name, companyName)
+import this 
